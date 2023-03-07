@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "example-1": "node 1_reverseInteger.js",
+    "example-2": "node 2_fibonacci.js",
+    "example-3": "node 3_primeNumber.js",
+    "example-4": "node 4_merge2ArraySortedList.js",
+    "example-5": "node 5_duplicateChar.js",
+    "example-7": "node 7_validateBucket.js",
+    "example-8": "node 8_longestValidBracket.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
